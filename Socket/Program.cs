@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Net;
 using System.Net.Sockets;
-using System.Threading;
 
 namespace Socket
 {
@@ -16,7 +15,6 @@ namespace Socket
 
             if (socket.Connected)
             {
-                
                 Console.WriteLine("客户端链接成功！");
             }
             
@@ -25,7 +23,6 @@ namespace Socket
                 System.Net.Sockets.Socket accept = socket.Accept();
                 Console.WriteLine("客户端链接成功");
                 string ip = accept.RemoteEndPoint.ToString();
-                
                 Console.Write("ip为："+ip+"链接成功");
             }
         }
