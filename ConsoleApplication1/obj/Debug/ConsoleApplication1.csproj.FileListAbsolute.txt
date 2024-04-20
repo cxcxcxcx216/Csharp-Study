@@ -1,0 +1,7 @@
+G:\Study\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Study\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Study\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+G:\Study\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+G:\Study\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+G:\Study\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Study\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

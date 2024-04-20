@@ -1,0 +1,7 @@
+G:\Study\Socket\bin\Debug\Socket.exe
+G:\Study\Socket\bin\Debug\Socket.pdb
+G:\Study\Socket\obj\Debug\Socket.csproj.AssemblyReference.cache
+G:\Study\Socket\obj\Debug\Socket.csproj.SuggestedBindingRedirects.cache
+G:\Study\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+G:\Study\Socket\obj\Debug\Socket.exe
+G:\Study\Socket\obj\Debug\Socket.pdb
