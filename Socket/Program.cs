@@ -12,7 +12,7 @@ namespace Socket
             IPEndPoint ipEndPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"),9009);
             System.Net.Sockets.Socket socket = new System.Net.Sockets.Socket(AddressFamily.InterNetwork,SocketType.Dgram,ProtocolType.Tcp);
             socket.Bind(ipEndPoint);
-            socket.Listen(9009);
+            socket.Listen(999);
 
             if (socket.Connected)
             {
